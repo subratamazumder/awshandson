@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "AWSHandsOn",
+  "name": "AWSHandsOn Application",
   "icons": [
     {
       "src": "aws_handson_logo_final_2e6_icon.ico",
