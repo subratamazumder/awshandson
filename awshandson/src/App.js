@@ -4,7 +4,7 @@ import logoreact from './images/react.svg';
 import logoaws from './images/aws-logo.svg';
 import logobootstrap from './images/bootstrap-4.svg';
 import logonodejs from './images/Node.js_logo.svg';
-import './App.css';
+// import './App.css';
 
 class App extends Component {
   render() {
@@ -68,7 +68,7 @@ class App extends Component {
      
       <div className="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
         <h6 className="mb-4 font-weight-bold">AWSHandsOn</h6>
-        <p>Our vision is to brings clarity in understanding AWS Services & concepts</p>
+        <p>Our mission is to bring clarity in understanding AWS Services & Concepts</p>
       </div>
      
 
@@ -90,7 +90,7 @@ class App extends Component {
       <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
         <h6 className="font-weight-bold">Useful links</h6>
         <p><a href="https://aws.amazon.com/new/">What's new @AWS</a></p>
-        <p><a href="https://principlesofchaos.org/">Chaos Engineering</a></p>
+        <p><a href="https://principlesofchaos.org/">Chaos Engineering Principle</a></p>
         <p><a href="https://www.reactivemanifesto.org/">Reactive Manifesto</a></p>
       </div>
 
@@ -100,7 +100,7 @@ class App extends Component {
       
       <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
         <h6 className="font-weight-bold">Contact</h6>
-        <p><i className="glyphicon glyphicon-envelope"></i>contact@awshanson.com</p>
+        <p><i className="glyphicon glyphicon-envelope"></i>contact@awshandson.com</p>
       </div>
      
 
