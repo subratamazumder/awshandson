@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import AppHeader from './components/AppHeader';
 import AppFooter from './components/AppFooter';
 import AppBody from './components/AppBody';
-// import './App.css';
 
 class App extends Component {
   render() {
