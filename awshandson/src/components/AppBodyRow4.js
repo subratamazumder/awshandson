@@ -1,13 +1,13 @@
 import React from 'react';
 import subrata from '../images/linkedIn_2.jpg';
 import pepa from '../images/pepa_linkedIn_1.jpg';
-class AppAboutUs extends React.Component {
+class AppBodyRow2 extends React.Component {
     render() {
         return (
             <div>
-                <div className="row">
+                <div className="row bg-dark">
                     <div className="col-sm-12 col-md-6 col-lg-6 ">
-                        <div className="card text-white bg-dark mb-3 ml-3 mr-3">
+                        <div className="card text-white bg-dark mb-3" style={{width : '18rem'}}>
                             <img className="card-img-top rounded-circle w-25 h-25" src={subrata} alt="hi"/>
                                 <div className="card-body">
                                     <h5 class="card-title">Founder</h5>
@@ -16,7 +16,7 @@ class AppAboutUs extends React.Component {
                         </div>
                     </div>
                     <div className="col-sm-12 col-md-6 col-lg-6 ">
-                        <div className="card text-white bg-dark mb-3 ml-3 mr-3" >
+                        <div className="card text-white bg-dark mb-3" style={{width : '18rem'}}>
                             <img className="card-img-top rounded-circle w-25 h-25" src={pepa} alt="hi"/>
                                 <div className="card-body">
                                     <h5 class="card-title">Co-Founder</h5>
@@ -29,4 +29,4 @@ class AppAboutUs extends React.Component {
                 );
     }
 }
-export default AppAboutUs
+export default AppBodyRow2
