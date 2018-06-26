@@ -12,8 +12,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #TODOs
 Decompose App.js into multiple components - done
 Get footer ready with bootstrapp
-Get header moved to right
+Get header moved to right - done
 CDN mapping with PUBLIC_URL
 Webpack Config Setup
 Correct Drop down background
-Fix bootstrapp logo in mobile mode
+Fix bootstrapp logo in mobile mode - done
+Google SEO
+Profile update for founders
